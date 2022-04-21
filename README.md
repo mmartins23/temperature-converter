@@ -20,3 +20,5 @@ We will create three input fields for Celcius, Fahrenheit, and Kelvin. Once one 
 
 ***
 
+The project is live on GitHub pages. You can check how it works using the link below:
+https://mmartins23.github.io/temperature-converter/
