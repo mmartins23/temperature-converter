@@ -2,7 +2,7 @@
 We will create a temperature converter application that can convert:
 
 * Celsius to Fahrenheit and Kelvin
-* Fahrenheit to Celcius and Kelvin, and
+* Fahrenheit to Celcius and Kelvin
 * Kelvin to Fahrenheit and Celcius
 
 We have direct formulas for each conversion. Using these formulas we can convert from one to another pretty easily. Below is given the formulas we need:
